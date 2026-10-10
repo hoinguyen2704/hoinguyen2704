@@ -1,6 +1,8 @@
 # Nguyễn Tiến Hội | Java Backend Fresher
 
-Recent Computer Science graduate focused on Java Backend development. I build maintainable web services with Spring Boot, Spring Security, JPA/Hibernate, RESTful APIs, relational databases, and Docker.
+Recent Computer Science graduate with hands-on experience in Java Backend development using Spring Boot, Spring Security,
+RESTful APIs and Microservice. Experienced in building backend services with layered architecture, implementing authentication
+and authorization with JWT, and working with relational databases and Docker.
 
 Available for full-time Java Backend Fresher opportunities.
 
@@ -84,7 +86,7 @@ Supporting modules: `React` · `TypeScript` · `Node.js` · `Express`
 
 ## Education and certifications
 
-- **B.Sc. in Computer Science**, Hanoi University of Industry (2022 - 2026), GPA: 3.22 / 4.0
+- **B.Sc. in Computer Science**, Hanoi University of Industry (2022 - 2026), GPA: 3.26 / 4.0
 - SDV 2026 University Internship Program — Samsung Display Vietnam
 - Development And Operations System — VTI Academy
 - AI Course — Samsung Innovation Campus 2024-2025
